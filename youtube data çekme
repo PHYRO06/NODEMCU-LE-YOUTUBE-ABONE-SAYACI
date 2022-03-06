@@ -1,0 +1,12 @@
+Veri çekmemizi sağlayan API key kodunu alabilmeniz için bir mail hesabına ihtiyacınız var.  “Cloud google” sitesine girin ve kendi mail hesabınız ile giriş yapın. Sonrasında sağ üstte profil fotoğrafınız yanındaki “Console” bölümüne girin.
+
+“Select a Project” bölümüne basıp açılan pencerenin sağ üst kısmından “NEW PROJECT” bölümüne tıklayın ve isim verip yeni proje oluşturun.
+Üstteki arama çubuğuna “YouTube Data API v3” yazın ve çıkan eklentiyi projenize ekleyin.
+Üstteki arama çubuğuna “YouTube Data API v3” yazın ve çıkan eklentiyi projenize ekleyin.
+
+Sonra açılan sayfadan üst kısımdaki “CREATE CREDENTIALS” kısmına basıp API key oluşturun.
+Oluşturduğunuz API key kodunu kopyalayın ve Arduino IDE kodunun #define apı_key"zzzz"  kısmına yapıştırın.
+Verilerini çekmek istediğiniz Youtube kanalına giriş yapın. Ve üstteki linkin kanala ait olan kısmını kopyalayın.
+Kopyaladığınız kodu, Arduino İDE kodundaki #define channel_ıd ".........." olan yerdeki noktaları silip yapıştırın.
+
+
