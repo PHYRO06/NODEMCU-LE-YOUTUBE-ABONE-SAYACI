@@ -1,0 +1,4 @@
+GND: NodeMCU GND pini
+VCC: NodeMCU VIN pini
+SDA: NodeMCU D2 pini
+SCL: NodeMCU D1 pini
